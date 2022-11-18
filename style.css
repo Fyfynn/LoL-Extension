@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(34, 33, 59);
+    min-width:300px;
+    min-height: 500px;
+}
+
+.test {
+    color: rgb(116, 116, 212);
+}
+
+#testjs {
+    font-size: medium;
+    font-weight: 100;
+    color: azure;
+}
+/* #searchBar {
+    outline: none;
+    background-color: black;
+    border-radius: 5px;
+} */

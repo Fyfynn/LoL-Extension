@@ -1,0 +1,11 @@
+{
+    "name": "Stats on LoL summoner's profile",
+    "version": "1.0.0",
+    "description": "An extension to see LoL champions' stats of a summoner",
+    "manifest_version": 3,
+    "author": "Fyfynn",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Stats on LoL summoner's profile"
+    }
+}
